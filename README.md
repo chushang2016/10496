@@ -1,4 +1,4 @@
-# 10496_ssm340超市会员（积分)管理系统
+# 10496_ssm超市会员（积分)管理系统
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10496
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10496
 
 * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10496_ssm340%E8%B6%85%E5%B8%82%E4%BC%9A%E5%91%98%EF%BC%88%E7%A7%AF%E5%88%86%29%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%BD%95%E5%83%8F.mp4
 
